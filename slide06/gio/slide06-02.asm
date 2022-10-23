@@ -84,8 +84,6 @@ main proc
         jmp comeco ; jump incondicional para pular a parte de zerar o contador cl para não pular a linha 
     ;-----------------------------------------------------
 
-
-
     ;----------Jump condicionlal para pular linha---------
 
         pulalinha2:; imprimindo um enter para pular linha  
